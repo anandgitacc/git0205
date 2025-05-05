@@ -17,6 +17,9 @@ public class EmployeeDetails { // block or body of the class
 		System.out.println("Employee id : 1001");
 	}
 	//.......methods
+	private void empAdd() {
+		System.out.println("chennai");
+	}
 	
 	public static void main(String[] args) {
 		
